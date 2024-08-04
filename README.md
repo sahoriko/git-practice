@@ -1,2 +1,2 @@
 # git-practice
-no-fast-foword ブランチで変更
+main ブランチで変更
