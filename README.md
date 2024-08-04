@@ -1,2 +1,2 @@
 # git-practice
-new-feature ブランチで変更
+no-fast-foword ブランチで変更
