@@ -1,2 +1,1 @@
-# git-practice
-stash conflict用
+stash message 2nd
